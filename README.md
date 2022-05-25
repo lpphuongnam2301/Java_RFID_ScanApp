@@ -7,7 +7,7 @@
 
 >**Database:** MySQL
 
->**Library:**
+>**Libraries:**
 - Connect Database: [JDBC](https://docs.microsoft.com/vi-vn/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-2017)
 - Connect Desktop Reader and Scan RFID: [CEANRFIDLibrary.jar, RXTXcomm.jar](https://www.bsr.at/mediafiles/Handbuch/CAEN/Benutzerhandbuch_Caen_ion_R4301P__EN.pdf)
 - Print PDF: [ITEXT](https://itextpdf.com/en)
