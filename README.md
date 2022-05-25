@@ -1,11 +1,12 @@
 # Desktop App
+
 >**Topic:** Return books in Library using RFID
 
 >**Language:** Java
 
 >**Framework:** Swing
 
->**Database:** MySQL
+>**Database:** MySQL [XAMPP](https://www.apachefriends.org/download.html)
 
 >**Libraries:**
 - Connect Database: [JDBC](https://docs.microsoft.com/vi-vn/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-2017)
@@ -19,8 +20,8 @@
 - Print .pdf
 
 >**Prepare**
-- Add Library
-- CeanRFID Desktop Reader
+- Add Libraries
+- CeanRFID Desktop Reader device
 ![image](https://user-images.githubusercontent.com/68319165/170253445-e5ec9dbc-8dfa-4e6f-b481-e53afb8595fe.png)
 
 >**Overview**
